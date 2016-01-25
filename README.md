@@ -5,16 +5,16 @@ dismathportfolio-MParro created by Classroom for GitHub
 - I was introduced to a new and interesting course called **Discrete Mathematics** (DISMATH)
 - Our professor (Sir Melvin Cabatuan) told us that our project will be a mobile application which makes the course more interesting.
 - I was introduced to logic and proofs and learned that **proposition** is a statement that is neither true (1) nor false (0) and there is NO in between!
-- I've learned the logical connectives which are shown in the table below: 
+- I've learned the logical connectives which are shown in the table below:
 
-| Operator       |  Symbol               | Usage    | 
-| :-------------:|:---------------------:|:--------:| 
-| Negation       |  ¬                    | not      | 
-| Conjunction    |  ∧                    | and      | 
-| Disjunction    |  V                    | or       | 
-| Exclusive or   |  ⊕                   |  xor     |    
-| Conditional    |  →                    | if, then |
-| Biconditional  |  ↔                    | iff      | 
+| Logical Symbol  |  Logical Operator     | Shorthand | Formula                                       | Logical Expression             |
+| :-------------: |:---------------------:|:---------:|:---------------------------------------------:|:------------------------------:|
+| ¬               | Negation              | not       | val(¬p) = 1 - val(p)                          | ¬p                             |
+| ∧               | Conjunction           | and       | val(p ∧ q) = min(val(p), val(q))              | p ∧ q                          |
+| v               | Disjunction           | or        | val(p v q) = max(val(p), val(q))              | p v q                          |
+| ⊕              | Exclusive disjunction | xor       | if val(p)  not equal val(q) = 1 , otherwise  0|  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) |
+| →               | Conditional           | if, then  | if val(p)  ≤ val(q) = 1 , otherwise  0        | p → q ≡  ¬p v q                |
+| ↔               | Biconditional         | iff       | if val(p) equals val(q) = 1 , otherwise  0    |  p ↔ q ≡ (p → q) ∧ (q → p)     |
 
 - I've also learned how to use these logical connectives in truth tables.
 
