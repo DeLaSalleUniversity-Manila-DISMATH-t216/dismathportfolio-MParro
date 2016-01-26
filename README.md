@@ -33,7 +33,7 @@ dismathportfolio-MParro created by Classroom for GitHub
   - Absorption laws
 - I've also learned **Propositional logic** which deals with propositions as a whole (subject + predicate)
 - I've also learned about **Quantifiers** which indicates the generality of an open sentence in which a variable occurs. 
-- Quantifiers have two classification:
+- Quantifiers have two classifications:
   - Existential Quantifiers (∃x)
     - "There exist"
   - Universal Quantifiers (∀x)
