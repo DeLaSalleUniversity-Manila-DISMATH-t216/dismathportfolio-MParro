@@ -20,7 +20,7 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 
 
 ## Week 2
-- I've learned about the laws and rules in DISMATH called Logical Equivalences. These are:
+- I've learned about the laws and rules in DISMATH called **Logical Equivalences**. These are:
   - Identity laws
   - Domination laws
   - Negation laws
@@ -40,7 +40,7 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
     - "For all"
 
 ## Week 3
-- This week I was introduced to a new topic called the Rules of Inference. 
+- This week I was introduced to a new topic called the **Rules of Inference**. 
 - There are different forms of Rules of Inference:
   - Modus Ponens
   - Modus Tollens
