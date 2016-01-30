@@ -57,4 +57,3 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
   - In this method of proof we assume that p is true and show that q must also be true.
 
 ## Week 4
-- 
