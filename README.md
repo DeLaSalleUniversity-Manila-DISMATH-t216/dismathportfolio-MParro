@@ -1,5 +1,5 @@
 # dismathportfolio-MParro
-dismathportfolio-MParro created by Classroom for GitHub
+dismathportfolio-Manuel Lorenzo Parro created by Classroom for GitHub
 
 ## Week 1
 - I was introduced to a new and interesting course called **Discrete Mathematics** (DISMATH)
@@ -8,13 +8,13 @@ dismathportfolio-MParro created by Classroom for GitHub
 - I've learned the logical connectives which are shown in the table below:
 
 | Logical Symbol  |  Logical Operator     | Shorthand | Formula                                       | Logical Expression             |
-| :-------------: |:---------------------:|:---------:|:---------------------------------------------:|:------------------------------:|
-| ¬               | Negation              | not       | val(¬p) = 1 - val(p)                          | ¬p                             |
-| ∧               | Conjunction           | and       | val(p ∧ q) = min(val(p), val(q))              | p ∧ q                          |
-| v               | Disjunction           | or        | val(p v q) = max(val(p), val(q))              | p v q                          |
+| :-------------: |:---------------------:|:---------:|:---------------------------------------------:|:-----------------------------:|
+| ¬               | Negation              | not       | val(¬p) = 1 - val(p)                          | ¬p                           |
+| ∧               | Conjunction           | and       | val(p ∧ q) = min(val(p), val(q))              | p ∧ q                          
+| v               | Disjunction           | or        | val(p v q) = max(val(p), val(q))              | p v q                        |
 | ⊕              | Exclusive disjunction | xor       | if val(p)  not equal val(q) = 1 , otherwise  0|  p ⊕ q  ≡ (¬p ∧ q) v (p ∧ ¬q) |
-| →               | Conditional           | if, then  | if val(p)  ≤ val(q) = 1 , otherwise  0        | p → q ≡  ¬p v q                |
-| ↔               | Biconditional         | iff       | if val(p) equals val(q) = 1 , otherwise  0    |  p ↔ q ≡ (p → q) ∧ (q → p)     |
+| →               | Conditional           | if, then  | if val(p)  ≤ val(q) = 1 , otherwise  0        | p → q ≡  ¬p v q              |
+| ↔               | Biconditional         | iff       | if val(p) equals val(q) = 1 , otherwise  0    |  p ↔ q ≡ (p → q) ∧ (q → p)    |
 
 - I've also learned how to use these logical connectives in truth tables.
 
@@ -40,3 +40,21 @@ dismathportfolio-MParro created by Classroom for GitHub
     - "For all"
 
 ## Week 3
+- This week I was introduced to a new topic called the Rules of Inference. 
+- There are different forms of Rules of Inference:
+  - Modus Ponens
+  - Modus Tollens
+  - Hypothetical Syllogism
+  - Disjunctive Syllogism
+  - Addition
+  - Simplification
+  - Conjunction
+  - Resolution
+- I learned how to identify arguments based on what Rule of Inference was used. 
+- We used Rules of Inference in showing the premises of our homework *Superman doesn't exist!*
+- I've also learned about Methods of Proof. 
+- The first method we discussed is about Direct Proof.
+  - In this method of proof we assume that p is true and show that q must also be true.
+
+## Week 4
+- 
