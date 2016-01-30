@@ -1,5 +1,5 @@
 # dismathportfolio-MParro
-dismathportfolio-Manuel Lorenzo Parro created by Classroom for GitHub
+dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 
 ## Week 1
 - I was introduced to a new and interesting course called **Discrete Mathematics** (DISMATH)
