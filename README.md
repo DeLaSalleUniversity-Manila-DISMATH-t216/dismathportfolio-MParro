@@ -77,9 +77,15 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
   - We show that Q is true, it follows that P → Q must also be true
 - Proof by Contradiction
   - In this proof, first we assume that the premise is not true, then show that the premise will end up in a contradiction
-- I have also learned the definition of a rational number = {a/b | a, b ∈ ℤ} where b≠0, a & b does no have common factor other than ±1
+- I have also learned the definition of a rational number = {a/b | a, b ∈ ℤ, where b≠0, a & b does no have common factor other than ±1}
 
 ## Week 5
 - We discussed about **proof by Equivalence** (Biconditionals)
   - (P ↔ Q) ↔ [(P → Q) ∧ (Q → P)]
   - In this proof, we should show that P → Q and Q → P are both true
+- We also discussed about **Mathematical Induction**
+  1. Basis:
+    - Show that P(1) or P(0) to be true
+  2. Direct Proof
+    a. Asumme P(k) = T
+    b. Show P(k+1) = T
