@@ -61,7 +61,25 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 - I learned how to identify arguments based on what Rule of Inference was used. 
 - We used Rules of Inference in showing the premises of our homework "*Superman doesn't exist!*"
 - I've also learned about Methods of Proof. 
-- The first method we discussed is about Direct Proof.
-  - In this method of proof we assume that p is true and show that q must also be true.
+- The first method we discussed is about **Direct Proof**.
+  - P → Q
+  - In this method of proof, we first assume that P is true then show that Q must also be true.
 
 ## Week 4
+- We discussed about the **Contraposition** (Indirect proof).
+  - ¬Q → ¬P
+  - In this method of proof, we first assume ¬Q is true then show ¬P is also true.
+- Vacuous Proof
+  - ¬P → (P → Q)
+  - In this method of proof, we show that P is false, because P → Q must be true when p is false.
+- Trivial Proof
+  - Q → (P → Q)
+  - We show that Q is true, it follows that P → Q must also be true
+- Proof by Contradiction
+  - In this proof, first we assume that the premise is not true, then show that the premise will end up in a contradiction
+- I have also learned the definition of a rational number = {a/b | a, b ∈ ℤ} where b≠0, a & b does no have common factor other than ±1
+
+## Week 5
+- We discussed about **proof by Equivalence** (Biconditionals)
+  - (P ↔ Q) ↔ [(P → Q) ∧ (Q → P)]
+  - In this proof, we should show that P → Q and Q → P are both true
