@@ -87,5 +87,5 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
   1. Basis:
     - Show that P(1) or P(0) to be true
   2. Direct Proof
-    a. Asumme P(k) = T
-    b. Show P(k+1) = T
+    1. Asumme P(k) = T
+    2. Show P(k+1) = T
