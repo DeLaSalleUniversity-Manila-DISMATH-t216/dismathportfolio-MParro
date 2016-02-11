@@ -20,17 +20,21 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 
 
 ## Week 2
-- I've learned about the laws and rules in DISMATH called **Logical Equivalences**. These are:
-  - Identity laws
-  - Domination laws
-  - Negation laws
-  - Double Negation law
-  - Idempotent laws
-  - Commutative laws
-  - Associative laws
-  - Distributive laws
-  - De Morgan's laws
-  - Absorption laws
+- I've learned about the laws and rules in DISMATH called **Logical Equivalences** which is shown in the table below:
+
+|         Name        |                           Equivalence                                 |
+|:-------------------:|:--------------------------------------------------------------------: |
+|    Identity laws    |                      p ∧ T ≡ p <br> p v F ≡ p                         |
+|   Domination laws   |                       p v T ≡ T <br> p ∧ F ≡ F                        |
+|   Idempotent laws   |                       p v p ≡ p <br> p ∧ p ≡ p                        |
+| Double negation law |                            ¬(¬p) ≡ p                                  |
+|   Commutative laws  |                   p v q ≡ q v p <br> p ∧ q ≡ q ∧ p                    |
+|   Associative laws  |       (p v q) v r ≡ p v (q v r) <br> (p ∧ q) ∧ r ≡ p ∧ (q ∧ r)        |
+|  Distributive laws  | p v (q ∧ r) ≡ (p v q) ∧ (p v r) <br>  p ∧(q v r) ≡ (p ∧ q) v (p ∧ r)  |
+|   De Morgan's laws  |              ¬(p ∧ q) ≡ ¬p v ¬q <br> ¬(p v q) ≡ ¬p ∧ ¬q               |
+|   Absorption laws   |                 p v (p ∧ q) ≡ p <br> p ∧ (p v q) ≡ p                  |
+|    Negation laws    |                     p v ¬p ≡ T <br> p ∧ ¬p ≡ F                        |
+
 - I've also learned **Propositional logic** which deals with propositions as a whole (subject + predicate)
 - I've also learned about **Quantifiers** which indicates the generality of an open sentence in which a variable occurs. 
 - Quantifiers have two classifications:
@@ -41,15 +45,19 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 
 ## Week 3
 - This week I was introduced to a new topic called the **Rules of Inference**. 
-- There are different forms of Rules of Inference:
-  - Modus Ponens
-  - Modus Tollens
-  - Hypothetical Syllogism
-  - Disjunctive Syllogism
-  - Addition
-  - Simplification
-  - Conjunction
-  - Resolution
+- There are different forms of Rules of Inference which are shown below:
+
+|          Name          |   Rule of Inference       |            Tautology           |
+|:---------------------: |:-------------------------:|:-----------------------------:|
+|      Modus ponens      |       p<br>p→q<br>∴q      |        (p ∧ (p → q)) → q       |
+|      Modus tollens     |     ¬q<br>p→q<br>∴ ¬p     |       (¬q ∧ (p → q)) → ¬p      |
+| Hypothetical syllogism |     p→q<br>q→r<br>∴p→r    |  ((p → q) ∧ (q → r)) → (p → r) |
+|  Disjunctive syllogism |      p∨q<br>¬p<br>∴q      |       ((p ∨ q) ∧ ¬p) → q       |
+|        Addition        |       p<br>∴p ∨ q         |           p → (p ∨ q)          |
+|      Simplication      |       p ∧ q<br>∴p         |           (p ∧ q) → p          |
+|       Conjunction      |      p<br>q<br>∴p ∧ q     |      ((p) ∧ (q)) → (p ∧ q)     |
+|       Resolution       | p ∨ q<br>¬p ∨ r<br>∴q ∨ r | ((p ∨ q) ∧ (¬p ∨ r)) → (q ∨ r) |
+
 - I learned how to identify arguments based on what Rule of Inference was used. 
 - We used Rules of Inference in showing the premises of our homework "*Superman doesn't exist!*"
 - I've also learned about Methods of Proof. 
