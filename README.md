@@ -80,7 +80,7 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 - I have also learned the definition of a rational number = {a/b | a, b ∈ ℤ, where b≠0, a & b does no have common factor other than ±1}
 
 ## Week 5
-- We discussed about **proof by Equivalence** (Biconditionals)
+- We discussed about **Proof by Equivalence** (Biconditionals)
   - (P ↔ Q) ↔ [(P → Q) ∧ (Q → P)]
   - In this proof, we should show that P → Q and Q → P are both true
 - We also discussed about **Mathematical Induction**
@@ -89,3 +89,39 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
   2. Direct Proof
     1. Asumme P(k) = T
     2. Show P(k+1) = T
+
+## Week 6
+- I learned about **Recursive/Inductive Definition**
+  - Basis step: using 0 as a value in the function
+  - Recursive step: giving definition to the function
+- I learned about **Recursive Algorithms**
+- I've also learned about **Program Verification**
+  - We first show that correct answer is obtained if the program terminates
+  - Then we show that the program always terminates
+- If the program terminates then it is **Partial Correctness** wherein two propositions are used
+  - Initial assertion (p) - properties of the input values
+  - Final assertion (q) - output 
+- I've also learned about the Hoare triple: p{S}q where S is the program segment
+
+## Week 7
+- We first discussed about our Project 0.0 where we will use MIT App Inventor as the platform
+- We were introduced to a new topic called **Set Theory**
+  - *Set* is an unordered collection of distinct objects
+  - We used '{}' to denote set
+- I've learned that ∅ ≠ {∅}
+  - ∅ means it is an empty set while {∅} means that it is a set cointaining empty set
+- I've learned about Union (A U B), Intersection (A ∩ B), and Difference (A-B or A\B)
+- We discussed about **Set Identities** which are very similar to Logical Equivalences
+- We also discussed about **Subsets** 
+  - Ex. {1,2,3} ⊆ { 1, 2, 3, 4}
+- We also discussed Power sets 
+  - ℘(S) = {T| T ⊆ S }
+- Lastly, we discussed about **Cardinality**
+  - it is the number of elements in a set
+  - If S is a set, we denote its cardinality by writing |S|
+    - Ex. |{a, b, c, d, e}| = 5
+  - The Cardinality of ℕ
+    - since |ℕ| is infinitely large we define |ℕ| = ℵ₀
+    - ℵ₀ is pronounced “aleph-zero,” “alephnought,” or “aleph-null
+  
+## Week 8
