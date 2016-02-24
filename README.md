@@ -105,6 +105,9 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 
 ## Week 7
 - We first discussed about our Project 0.0 where we will use MIT App Inventor as the platform
+  - Due: March 02, 2016 
+  - Title: DISMATH_Project0.0
+  - Individual
 - We were introduced to a new topic called **Set Theory**
   - *Set* is an unordered collection of distinct objects
   - We used '{}' to denote set
@@ -119,7 +122,7 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 - Lastly, we discussed about **Cardinality**
   - it is the number of elements in a set
   - If S is a set, we denote its cardinality by writing |S|
-    - Ex. |{a, b, c, d, e}| = 5
+    - Ex. <br> |{a, b, c, d, e}| = 5 <br> |{{a, b}, {c, d, e, f, g}, {h}}| = 3 <br> |{1, 2, 3, 3, 3, 3, 3}| = 3 <br> |{ n ∈ ℕ | n < 137}| = 137
   - The Cardinality of ℕ
     - since |ℕ| is infinitely large we define |ℕ| = ℵ₀
     - ℵ₀ is pronounced “aleph-zero,” “alephnought,” or “aleph-null
