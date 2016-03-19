@@ -128,3 +128,35 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
     - ℵ₀ is pronounced “aleph-zero,” “alephnought,” or “aleph-null
   
 ## Week 8
+- We discussed Functions and its types
+  - One - to - one Function (Injection) 
+  - Onto Function (Surjective) 
+  - One - to - one Correspondence (Bijection) 
+- We discussed about Algorithms.
+- **Algorithm** is defined as a finite set of precise instructions for performing a computation or for solving a problem
+- Properties of Algorithm:
+  - Input 
+  - Output
+  - Definiteness
+  - Correctness
+  - Finiteness
+  - Generality
+- Pseudocode
+  - Preconditions - statements that describe valid input
+  - Postconditions - conditions that the ouput should satisfy when the program has run
+
+## Week 9 
+- We discussed about the types of Algorithm
+  - Searching Algorithms
+  - Sorting Algorithms
+  - Greedy Algorithms
+
+## Week 10
+- We discussed about the Growth of Functions.
+- Big-O Notation
+- Big-Omega and Big-Theta Notation
+- Algorithm Time Complexity
+- Division and Modulo Operator
+  - Q = a div d
+  - r = a mod d
+- Cryptology (Caesar Cipher)
