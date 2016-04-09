@@ -248,4 +248,4 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
   - f: Transition function
   - g: Output function
   - s<sub>0</sub>: Initial state
-- 
+
