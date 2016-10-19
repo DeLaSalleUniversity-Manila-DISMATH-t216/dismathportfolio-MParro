@@ -37,6 +37,11 @@ dismathportfolio of Manuel Lorenzo Parro created by Classroom for GitHub
 
 - I've also learned **Propositional logic** which deals with propositions as a whole (subject + predicate)
 - I've also learned about **Quantifiers** which indicates the generality of an open sentence in which a variable occurs. 
+- We discussed a new topic called Interpretations which follows different rules as shown below.
+  - Satisfiable - iff there exists an interpretation
+  - Valid - iff it is true for all interpretations
+  - Unsatisfiable - iff it is false for all interpretations
+  - Contingent - if it is satisfiable, but not valid
 - Quantifiers have two classifications:
   - Existential Quantifiers (∃x)
     - "There exist"
